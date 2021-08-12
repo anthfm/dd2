@@ -1,0 +1,1 @@
+5472ee6b-0197-4804-98cd-5b9205371c96 autoenable=true bucket=empty chunk=1GiB datacenter=US encryption=none host=192.168.68.119 name=s3.aa port=9000 public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1628782571.604726s
